@@ -4,5 +4,8 @@ test_cases:
     AUDI_AIR_POLUTION: 0
   response: 7B0046226ED00
 - expected_values:
+    AUDI_AIR_POLUTION: 0.1
+  response: 7B0046226ED01
+- expected_values:
     AUDI_AIR_POLUTION: -0.1
   response: 7B0046226EDFF
