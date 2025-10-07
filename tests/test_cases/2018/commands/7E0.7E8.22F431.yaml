@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
+    AUDI_CLR_DIST: 3667
+  response: '7E8 05 62 F4 31 0E 53 '
+- expected_values:
     AUDI_CLR_DIST: 916
   response: 7E80562F4310394
 - expected_values:
