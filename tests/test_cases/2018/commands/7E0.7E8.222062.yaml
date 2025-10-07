@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.222062
 test_cases:
 - expected_values:
+    AUDI_APP_POS2: 0.371
+  response: '7E8 05 62 20 62 01 73 '
+- expected_values:
     AUDI_APP_POS2: 0.361
   response: '7E8056220620169'
 - expected_values:
