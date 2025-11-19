@@ -1,0 +1,14 @@
+command_id: 746.7B0.22260D|fc=1
+test_cases:
+- expected_values:
+    AUDI_FRONT_RIGHT_DEFL_T: 55.611
+  response: 7B00462260DA7
+- expected_values:
+    AUDI_FRONT_RIGHT_DEFL_T: 57.276
+  response: 7B00462260DAC
+- expected_values:
+    AUDI_FRONT_RIGHT_DEFL_T: 57.609
+  response: 7B00462260DAD
+- expected_values:
+    AUDI_FRONT_RIGHT_DEFL_T: 57.942
+  response: 7B00462260DAE
