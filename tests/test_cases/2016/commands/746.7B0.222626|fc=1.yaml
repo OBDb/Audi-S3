@@ -1,0 +1,14 @@
+command_id: 746.7B0.222626|fc=1
+test_cases:
+- expected_values:
+    AUDI_FRONT_RIGHT_T_FLAP_ACT: 100
+  response: 7B006622626A002EC
+- expected_values:
+    AUDI_FRONT_RIGHT_T_FLAP_ACT: 1
+  response: 7B006622626A50302
+- expected_values:
+    AUDI_FRONT_RIGHT_T_FLAP_ACT: 2.5
+  response: 7B006622626A60305
+- expected_values:
+    AUDI_FRONT_RIGHT_T_FLAP_ACT: 7.5
+  response: 7B006622626A8030F
