@@ -1,11 +1,11 @@
 command_id: 746.7B0.222622|fc=1
 test_cases:
 - expected_values:
-    AUDI_FRONT_LEFT_T_FLAP_ACT: 7
+    AUDI_CLIMATE_FR_L_T_FLP_ACT_VALUE: 7
   response: 7B006622622A5030E
 - expected_values:
-    AUDI_FRONT_LEFT_T_FLAP_ACT: 12
+    AUDI_CLIMATE_FR_L_T_FLP_ACT_VALUE: 12
   response: 7B006622622A80318
 - expected_values:
-    AUDI_FRONT_LEFT_T_FLAP_ACT: 21
+    AUDI_CLIMATE_FR_L_T_FLP_ACT_VALUE: 21
   response: 7B006622622AC032A
