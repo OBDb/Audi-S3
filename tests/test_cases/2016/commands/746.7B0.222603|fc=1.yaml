@@ -1,14 +1,14 @@
 command_id: 746.7B0.222603|fc=1
 test_cases:
 - expected_values:
-    AUDI_A_C_CMPR_SPEED: 0
+    AUDI_CLIMATE_A_C_COMP_SPD: 0
   response: 7B00462260300
 - expected_values:
-    AUDI_A_C_CMPR_SPEED: 1800
+    AUDI_CLIMATE_A_C_COMP_SPD: 1800
   response: 7B00462260312
 - expected_values:
-    AUDI_A_C_CMPR_SPEED: 1900
+    AUDI_CLIMATE_A_C_COMP_SPD: 1900
   response: 7B00462260313
 - expected_values:
-    AUDI_A_C_CMPR_SPEED: 2300
+    AUDI_CLIMATE_A_C_COMP_SPD: 2300
   response: 7B00462260317
