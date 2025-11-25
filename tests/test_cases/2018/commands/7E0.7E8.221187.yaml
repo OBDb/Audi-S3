@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221187
 test_cases:
 - expected_values:
+    AUDI_ACCELERATION: 0.003
+  response: '7E8056211870003'
+- expected_values:
     AUDI_ACCELERATION: 0.004
   response: '7E8056211870004'
