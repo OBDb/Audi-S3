@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_CLIMATE_FR_R_T_FLP_ACT_VALUE: 11.5
   response: 7B006622626A90317
+- expected_values:
+    AUDI_CLIMATE_FR_R_T_FLP_ACT_VALUE: 76
+  response: 7B006622626C80398
