@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     AUDI_CLIMATE_A_C_COMP_LOAD: 0.5
   response: 7B00462260405
+- expected_values:
+    AUDI_CLIMATE_A_C_COMP_LOAD: 1.5
+  response: 7B0046226040F
+- expected_values:
+    AUDI_CLIMATE_A_C_COMP_LOAD: 2.3
+  response: 7B00462260417
+- expected_values:
+    AUDI_CLIMATE_A_C_COMP_LOAD: 2.4
+  response: 7B00462260418
+- expected_values:
+    AUDI_CLIMATE_A_C_COMP_LOAD: 2.5
+  response: 7B00462260419
