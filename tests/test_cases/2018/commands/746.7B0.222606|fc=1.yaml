@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_CLIMATE_RAD_FAN_ACT_DUTY: 11.2
   response: 7B0046226061C
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_ACT_DUTY: 21.2
+  response: 7B00462260635

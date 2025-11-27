@@ -4,26 +4,5 @@ test_cases:
     AUDI_AAT_V2: 52.5
   response: 7B00462260969
 - expected_values:
-    AUDI_AAT_V2: 53
-  response: 7B0046226096A
-- expected_values:
-    AUDI_AAT_V2: 53.5
-  response: 7B0046226096B
-- expected_values:
-    AUDI_AAT_V2: 54
-  response: 7B0046226096C
-- expected_values:
-    AUDI_AAT_V2: 56
-  response: 7B00462260970
-- expected_values:
-    AUDI_AAT_V2: 56.5
-  response: 7B00462260971
-- expected_values:
-    AUDI_AAT_V2: 57
-  response: 7B00462260972
-- expected_values:
-    AUDI_AAT_V2: 57.5
-  response: 7B00462260973
-- expected_values:
-    AUDI_AAT_V2: 58
-  response: 7B00462260974
+    AUDI_AAT_V2: -64
+  response: 7B00462260980
