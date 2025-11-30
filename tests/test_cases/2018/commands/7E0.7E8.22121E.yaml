@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     AUDI_SPEC_VALUE_RAIL_P: 292800
   response: 7E80562121E0B70
+- expected_values:
+    AUDI_SPEC_VALUE_RAIL_P: 292900
+  response: 7E80562121E0B71
