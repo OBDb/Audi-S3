@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     AUDI_RECIRC_FLAP_CMD_STEPS: 753
   response: 7B00562261F02F1
+- expected_values:
+    AUDI_RECIRC_FLAP_CMD_STEPS: 778
+  response: 7B00562261F030A
+- expected_values:
+    AUDI_RECIRC_FLAP_CMD_STEPS: 869
+  response: 7B00562261F0365
