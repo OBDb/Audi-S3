@@ -37,6 +37,13 @@ test_cases:
     77D22FEAAAAAAAAAAAA
 - expected_values:
     AUDI_AIR_GAB_VACUUM_SNS: 0
+    AUDI_BRAKE_P_SNS: 2.3
+  response: |-
+    77D100E6218160100E6
+    77D21FFFFFFFFFCA5FF
+    77D22FEAAAAAAAAAAAA
+- expected_values:
+    AUDI_AIR_GAB_VACUUM_SNS: 0
     AUDI_BRAKE_P_SNS: 5.1
   response: |-
     77D100E6218160101FE
