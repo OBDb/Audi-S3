@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     AUDI_ACCELERATION: 0.005
   response: '7E8056211870005'
+- expected_values:
+    AUDI_ACCELERATION: 0.006
+  response: '7E8056211870006'
