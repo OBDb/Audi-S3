@@ -1,8 +1,8 @@
 command_id: 746.7B0.222622|fc=1
 test_cases:
 - expected_values:
-    AUDI_CLIMATE_FR_L_T_FLP_ACT_VALUE: 5
-  response: 7B00662262225010A
+    AUDI_CLIMATE_FR_L_T_FLP_ACT_VALUE: 66.5
+  response: 7B006622622040085
 - expected_values:
     AUDI_CLIMATE_FR_L_T_FLP_ACT_VALUE: 100
   response: 7B0066226226201FF
