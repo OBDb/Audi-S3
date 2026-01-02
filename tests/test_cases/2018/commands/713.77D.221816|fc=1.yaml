@@ -3,6 +3,11 @@ test_cases:
 - expected_values:
     AUDI_AIR_GAB_VACUUM_SNS: 0
     AUDI_BRAKE_P_SNS: 0
+  response: "221816\n77D 10 0E 62 18 16 00 FF D8 \n77D 21 FF FF FF FF FC 38 FF \n77D
+    22 FE AA AA AA AA AA AA "
+- expected_values:
+    AUDI_AIR_GAB_VACUUM_SNS: 0
+    AUDI_BRAKE_P_SNS: 0
   response: |-
     77D100E62181600FF1A
     77D21FFFFFFFFFCAAFF
@@ -33,7 +38,7 @@ test_cases:
     AUDI_BRAKE_P_SNS: 0
   response: |-
     77D100E62181600FFD8
-    77D21FFFFFFFFFCDCFF
+    77D21FFFFFFFFFD20FF
     77D22FEAAAAAAAAAAAA
 - expected_values:
     AUDI_AIR_GAB_VACUUM_SNS: 0
