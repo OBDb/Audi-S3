@@ -1,8 +1,8 @@
 command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
-    AUDI_AAT_CABIN: 1.5
-  response: 7B00462260A67
+    AUDI_AAT_CABIN: -3.5
+  response: 7B00462260A5D
 - expected_values:
     AUDI_AAT_CABIN: 14
   response: 7B00462260A80
