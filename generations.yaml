@@ -1,20 +1,28 @@
+references:
+  - "https://en.wikipedia.org/wiki/Audi_S3"
+
 generations:
   - name: "First Generation (8L)"
     start_year: 1999
     end_year: 2003
-    description: "The original Audi S3 was based on the first-generation A3 platform, offered exclusively as a three-door hatchback. It featured a turbocharged 1.8L four-cylinder engine producing initially 210 HP, later increased to 225 HP, paired with a six-speed manual transmission and quattro all-wheel drive. The S3 represented Audi's first compact performance model, featuring subtle exterior enhancements, lowered suspension, and larger brakes compared to the standard A3."
+    description: "The original Audi S3 was based on the first-generation A3 platform on the Volkswagen A4 (PQ34) architecture, offered exclusively as a three-door hatchback. It featured a turbocharged 1.8L four-cylinder engine producing initially 210 HP, later increased to 225 HP (with variable valve timing added in 2001), paired with a six-speed manual transmission and quattro on-demand all-wheel drive. The S3 represented Audi's first compact performance model, featuring subtle exterior enhancements, lowered suspension, and larger brakes compared to the standard A3. A facelift in 2000 introduced one-piece headlights/indicator units and different front wings and rear light clusters."
 
   - name: "Second Generation (8P)"
     start_year: 2006
     end_year: 2012
-    description: "Based on the second-generation A3, the 8P S3 continued with a turbocharged 2.0L four-cylinder engine producing 265 HP. Initially available only as a three-door hatchback, a five-door Sportback variant was added later. Transmission options expanded to include Audi's S tronic dual-clutch automatic alongside the manual. The exterior featured more distinctive S-specific styling elements including aluminum-look mirror caps and quad exhaust tips."
+    description: "Based on the second-generation A3 on the Volkswagen A5 (PQ35) platform, the 8P S3 featured a turbocharged 2.0L four-cylinder FSI engine producing 265 HP (195 kW). Initially available only as a three-door hatchback, a five-door Sportback variant was added in 2008. Transmission options included a six-speed manual and Audi's S tronic dual-clutch automatic. The 2008 facelift brought minor updates to styling. The exterior featured distinctive S-specific styling elements including aluminum-look mirror caps and quad exhaust tips. The Haldex on-demand all-wheel drive system was standard."
 
-  - name: "Third Generation (8V)"
-    start_year: 2013
+  - name: "Third Generation (8V) Pre-Facelift"
+    start_year: 2014
+    end_year: 2016
+    description: "The 8V generation S3 was based on the Volkswagen Group MQB platform. Presented in September 2012 with market launch in spring 2013 for the three-door hatchback (with sedan production beginning early 2014). It featured a 2.0L turbocharged TFSI four-cylinder producing 300 HP (221 kW). Body style options included three-door hatchback, five-door Sportback, four-door sedan, and cabriolet (available from July 2014). Technology advanced significantly with advanced driver assistance systems and a more sophisticated chassis. The Haldex all-wheel drive system continued as standard."
+
+  - name: "Third Generation (8V) Facelift"
+    start_year: 2016
     end_year: 2020
-    description: "The 8V generation S3 was based on the Volkswagen Group MQB platform and featured an updated 2.0L turbocharged four-cylinder producing 300 HP. Body style options expanded to include three-door hatchback, five-door Sportback, four-door sedan, and cabriolet. Technology advanced significantly with the introduction of the Virtual Cockpit digital instrument cluster and advanced driver assistance systems. The S3 became more sophisticated with adaptive suspension options and various driving modes."
+    description: "The mid-2016 facelift of the 8V S3 brought significant visual changes including more striking taillights with dynamic indicators as standard, more angular headlights, and redesigned front and rear bumpers with an updated diffuser. Engine power was increased from 300 to 310 HP. All body style options remained available: three-door hatchback, five-door Sportback, four-door sedan, and cabriolet. The Haldex all-wheel drive system and S tronic transmission continued to be standard or available."
 
   - name: "Fourth Generation (8Y)"
     start_year: 2020
     end_year: null
-    description: "The current S3, based on the updated MQB Evo platform, features a further refined 2.0L turbocharged four-cylinder now producing 310 HP. It's available as a five-door Sportback and four-door sedan. The exterior design is more aggressive with larger air intakes and pronounced wheel arches. The interior features a completely digital environment with touch screens and digital instruments. Performance enhancements include a more sophisticated quattro system, progressive steering, and optional adaptive suspension. The fourth-generation S3 balances everyday usability with performance capabilities that approach supercar territory of previous decades."
+    description: "The fourth generation based on the Audi A3 8Y platform was presented on August 11, 2020 and came to dealers at the beginning of October 2020. It features a 2.0L EA888 Evo 4 turbocharged TFSI four-cylinder producing 310 HP, paired with a 7-speed S tronic transmission and quattro all-wheel drive. Unlike the previous generation which offered four body styles, the 8Y is available only as a five-door Sportback and four-door sedan. The exterior design is more aggressive with larger air intakes and pronounced wheel arches. The interior features a completely digital environment with advanced infotainment and digital instruments. The fourth-generation S3 balances everyday usability with performance capabilities."
