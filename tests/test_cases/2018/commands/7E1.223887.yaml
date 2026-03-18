@@ -1,17 +1,17 @@
 command_id: 7E1.223887
 test_cases:
 - expected_values:
-    AUDI_ODO_TCM_2_HD: 85350.4
+    AUDI_MQB_TCM_ODO_2: 85350.4
   response: 7E90762388700060D00
 - expected_values:
-    AUDI_ODO_TCM_2_HD: 80819.2
+    AUDI_MQB_TCM_ODO_2: 80819.2
   response: 7E90762388700550C00
 - expected_values:
-    AUDI_ODO_TCM_2_HD: 85197.8
+    AUDI_MQB_TCM_ODO_2: 85197.8
   response: 7E9076238870A000D00
 - expected_values:
-    AUDI_ODO_TCM_2_HD: 85175
+    AUDI_MQB_TCM_ODO_2: 85175
   response: 7E90762388726FF0C00
 - expected_values:
-    AUDI_ODO_TCM_2_HD: 85606.3
+    AUDI_MQB_TCM_ODO_2: 85606.3
   response: 7E907623887FF0F0D00
