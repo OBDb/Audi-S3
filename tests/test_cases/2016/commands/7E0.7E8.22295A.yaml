@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_ODO: 169585
   response: 7E80662295A029671
+- expected_values:
+    AUDI_ODO: 175629
+  response: 7E80662295A02AE0D

@@ -3,8 +3,10 @@ test_cases:
 - expected_values:
     AUDI_ODO_DASH: 255
     AUDI_ODO_V2: 824710
+    AUDI_PQ35_ODO: 3220
   response: '77E06622203014227'
 - expected_values:
     AUDI_ODO_DASH: 255
     AUDI_ODO_V2: 824720
+    AUDI_PQ35_ODO: 3220
   response: '77E06622203014228'
