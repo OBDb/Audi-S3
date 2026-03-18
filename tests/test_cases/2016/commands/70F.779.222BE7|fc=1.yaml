@@ -1,0 +1,14 @@
+command_id: 70F.779.222BE7|fc=1
+test_cases:
+- expected_values:
+    AUDI_PQ35_HAL_PWM: 0
+  response: 77904622BE700
+- expected_values:
+    AUDI_PQ35_HAL_PWM: 13
+  response: 77904622BE70D
+- expected_values:
+    AUDI_PQ35_HAL_PWM: 14
+  response: 77904622BE70E
+- expected_values:
+    AUDI_PQ35_HAL_PWM: 16
+  response: 77904622BE710
