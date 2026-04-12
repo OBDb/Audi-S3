@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_INJ_7_RAIL_P_CAL_PT_1: 8.6
   response: 7E80562146D00AC
+- expected_values:
+    AUDI_INJ_7_RAIL_P_CAL_PT_1: 8.75
+  response: 7E80562146D00AF

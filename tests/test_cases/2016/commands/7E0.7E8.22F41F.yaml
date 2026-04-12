@@ -4,29 +4,8 @@ test_cases:
     AUDI_RUNTM: 0
   response: 7E80562F41F0000
 - expected_values:
-    AUDI_RUNTM: 55
-  response: 7E80562F41F0037
+    AUDI_RUNTM: 5362
+  response: 7E80562F41F14F2
 - expected_values:
-    AUDI_RUNTM: 316
-  response: 7E80562F41F013C
-- expected_values:
-    AUDI_RUNTM: 360
-  response: 7E80562F41F0168
-- expected_values:
-    AUDI_RUNTM: 445
-  response: 7E80562F41F01BD
-- expected_values:
-    AUDI_RUNTM: 529
-  response: 7E80562F41F0211
-- expected_values:
-    AUDI_RUNTM: 575
-  response: 7E80562F41F023F
-- expected_values:
-    AUDI_RUNTM: 620
-  response: 7E80562F41F026C
-- expected_values:
-    AUDI_RUNTM: 818
-  response: 7E80562F41F0332
-- expected_values:
-    AUDI_RUNTM: 1065
-  response: 7E80562F41F0429
+    AUDI_RUNTM: 5574
+  response: 7E80562F41F15C6
