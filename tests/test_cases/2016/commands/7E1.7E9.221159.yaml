@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_DQ250_CLUTCH_ADAPT_VALUES_LOWER_I_POINT_ADAPT_K2: 200
   response: '7E90462115928'
+- expected_values:
+    AUDI_MQB_DQ250_CLUTCH_ADAPT_VALUES_LOWER_I_POINT_ADAPT_K2: 205
+  response: '7E90462115929'
