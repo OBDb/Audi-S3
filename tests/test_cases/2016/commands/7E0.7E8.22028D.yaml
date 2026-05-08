@@ -4,29 +4,8 @@ test_cases:
     AUDI_ECU_TEMP: 29
   response: 7E80562028D0122
 - expected_values:
-    AUDI_ECU_TEMP: 36
-  response: 7E80562028D0168
-- expected_values:
-    AUDI_ECU_TEMP: 37
-  response: 7E80562028D0172
-- expected_values:
-    AUDI_ECU_TEMP: 39
-  response: 7E80562028D0186
-- expected_values:
-    AUDI_ECU_TEMP: 40
-  response: 7E80562028D0190
-- expected_values:
-    AUDI_ECU_TEMP: 46
-  response: 7E80562028D01CC
-- expected_values:
     AUDI_ECU_TEMP: 47
   response: 7E80562028D01D6
 - expected_values:
     AUDI_ECU_TEMP: 53
   response: 7E80562028D0212
-- expected_values:
-    AUDI_ECU_TEMP: 57
-  response: 7E80562028D023A
-- expected_values:
-    AUDI_ECU_TEMP: 60
-  response: 7E80562028D0258
