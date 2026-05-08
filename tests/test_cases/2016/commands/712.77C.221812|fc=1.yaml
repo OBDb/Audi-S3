@@ -5,6 +5,10 @@ test_cases:
     AUDI_STEER_WHEEL_ANGLE: 6.75
   response: 77C06621812003601
 - expected_values:
+    AUDI_MQB_SWA: 16.56
+    AUDI_STEER_WHEEL_ANGLE: 16.5
+  response: 77C06621812008401
+- expected_values:
     AUDI_MQB_SWA: 17.31
     AUDI_STEER_WHEEL_ANGLE: 17.25
   response: 77C06621812008A01

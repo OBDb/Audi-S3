@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_TCM_DRIVER_DEMAND_TORQUE: 1126.75
   response: 7E90562100B5807
+- expected_values:
+    AUDI_MQB_TCM_DRIVER_DEMAND_TORQUE: 1536
+  response: 7E90562100B7800
