@@ -5,6 +5,13 @@ test_cases:
     AUDI_MQB_CSS_ODO_LAST: 1
     AUDI_MQB_CSS_STR_TRQ: 0
   response: |-
+    77D10096218B601027E
+    77D21380000AAAAAAAA
+- expected_values:
+    AUDI_MQB_CSS_ACT: 0
+    AUDI_MQB_CSS_ODO_LAST: 1
+    AUDI_MQB_CSS_STR_TRQ: 0
+  response: |-
     77D10096218B60102AD
     77D21130000AAAAAAAA
 - expected_values:

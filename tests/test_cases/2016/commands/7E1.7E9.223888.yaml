@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_TCM_DRIVING_TIME_ECOLOGICAL: 19
   response: '7E90462388813'
+- expected_values:
+    AUDI_MQB_TCM_DRIVING_TIME_ECOLOGICAL: 21
+  response: '7E90462388815'
