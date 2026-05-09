@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     AUDI_MQB_DQ250_NEUTRAL_POS_GEAR_SELECTOR_6_R: 49.93
   response: '7E9056211438113'
+- expected_values:
+    AUDI_MQB_DQ250_NEUTRAL_POS_GEAR_SELECTOR_6_R: 49.93
+  response: |-
+    7E9056211438113
+    7E90341044C

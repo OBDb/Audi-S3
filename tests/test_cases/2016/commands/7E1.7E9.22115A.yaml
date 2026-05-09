@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.22115A
 test_cases:
 - expected_values:
+    AUDI_MQB_DQ250_KILOMETERS_DRIVEN_SINCE_LAST_EVENT_ON_K1: 10
+  response: 7E90562115A0100
+- expected_values:
     AUDI_MQB_DQ250_KILOMETERS_DRIVEN_SINCE_LAST_EVENT_ON_K1: 20
   response: 7E90562115A0200
 - expected_values:
@@ -9,6 +12,11 @@ test_cases:
 - expected_values:
     AUDI_MQB_DQ250_KILOMETERS_DRIVEN_SINCE_LAST_EVENT_ON_K1: 180
   response: 7E90562115A1200
+- expected_values:
+    AUDI_MQB_DQ250_KILOMETERS_DRIVEN_SINCE_LAST_EVENT_ON_K1: 290
+  response: |-
+    7E90562115A1D00
+    7E903410477
 - expected_values:
     AUDI_MQB_DQ250_KILOMETERS_DRIVEN_SINCE_LAST_EVENT_ON_K1: 1300
   response: 7E90562115A8200
