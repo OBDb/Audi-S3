@@ -9,3 +9,13 @@ test_cases:
 - expected_values:
     AUDI_INJ_7_RAIL_P_CAL_PT_1: 8.85
   response: 7E80562146D00B1
+- expected_values:
+    AUDI_INJ_7_RAIL_P_CAL_PT_1: 8.85
+  response: |-
+    7E80562146D00B1
+    7E8056239A20E7A
+    7E80562F40C2F4C
+    7E803410B85
+    7E803410EA0
+    7E80562F40C2F81
+    7E803410B85
