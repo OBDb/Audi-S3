@@ -3,3 +3,13 @@ test_cases:
 - expected_values:
     AUDI_GEAR_V2: 0
   response: 7E8046214CB00
+- expected_values:
+    AUDI_GEAR_V2: 0
+  response: |-
+    7E8046214CB00
+    7E8056239A200C0
+    7E80562F40C2AC4
+    7E803410B6B
+    7E803410EA5
+    7E80562F40C2ABF
+    7E803410B6B
