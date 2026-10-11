@@ -1,32 +1,32 @@
 command_id: 713.77D.221810|fc=1
 test_cases:
 - expected_values:
-    AUDI_MQB_HYD_BRK_BST_ACT: 0
+    S3_HYDR_BRAKEBOOST: 0
   response: |-
     77D100C621810000000
     77D21FC267FFFFFFFAA
 - expected_values:
-    AUDI_MQB_HYD_BRK_BST_ACT: 0
+    S3_HYDR_BRAKEBOOST: 0
   response: |-
     77D100C621810000000
     77D21FC2F7FFFFFFFAA
 - expected_values:
-    AUDI_MQB_HYD_BRK_BST_ACT: 0
+    S3_HYDR_BRAKEBOOST: 0
   response: |-
     77D100C621810000000
     77D21FC417FFFFFFFAA
 - expected_values:
-    AUDI_MQB_HYD_BRK_BST_ACT: 0
+    S3_HYDR_BRAKEBOOST: 0
   response: |-
     77D100C62181000000A
     77D21FC167FFFFFFFAA
 - expected_values:
-    AUDI_MQB_HYD_BRK_BST_ACT: 0
+    S3_HYDR_BRAKEBOOST: 0
   response: |-
     77D100C62181000000A
     77D21FDB17FFFFFFFAA
 - expected_values:
-    AUDI_MQB_HYD_BRK_BST_ACT: 0
+    S3_HYDR_BRAKEBOOST: 0
   response: |-
     77D100C62181000FFEC
     77D21FC737FFFFFFFAA

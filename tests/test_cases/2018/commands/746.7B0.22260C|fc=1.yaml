@@ -1,0 +1,8 @@
+command_id: 746.7B0.22260C|fc=1
+test_cases:
+- expected_values:
+    S3_FRONT_LEFT_DEFLECTOR_T: 29.33333
+  response: 7B00462260C58
+- expected_values:
+    S3_FRONT_LEFT_DEFLECTOR_T: 66
+  response: 7B00462260CC6

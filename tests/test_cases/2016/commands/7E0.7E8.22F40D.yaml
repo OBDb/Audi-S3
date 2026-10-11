@@ -1,19 +1,19 @@
 command_id: 7E0.7E8.22F40D
 test_cases:
 - expected_values:
-    AUDI_VSS: 0
+    S3_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    AUDI_VSS: 11
+    S3_VSS: 11
   response: 7E80462F40D0B
 - expected_values:
-    AUDI_VSS: 20
+    S3_VSS: 20
   response: 7E80462F40D14
 - expected_values:
-    AUDI_VSS: 116
+    S3_VSS: 116
   response: 7E80462F40D74
 - expected_values:
-    AUDI_VSS: 121
+    S3_VSS: 121
   response: |-
     7E80462F40D79
     7E8056239A200B7

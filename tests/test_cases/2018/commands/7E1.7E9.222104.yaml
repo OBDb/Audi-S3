@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222104
+test_cases:
+- expected_values:
+    S3_ATF_T: 3
+  response: '7E9056221040300'
+- expected_values:
+    S3_ATF_T: 93
+  response: 7E9056221045D00

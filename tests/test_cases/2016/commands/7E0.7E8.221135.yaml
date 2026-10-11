@@ -1,7 +1,7 @@
 command_id: 7E0.7E8.221135
 test_cases:
 - expected_values:
-    AUDI_COOLANT_T: -238.8
+    S3_COOLANT_T: -238.8
   response: |-
     7E8056211350157
     7E8056239A200C0
@@ -11,11 +11,11 @@ test_cases:
     7E80562F40C2A2B
     7E803410B49
 - expected_values:
-    AUDI_COOLANT_T: -196.7
+    S3_COOLANT_T: -196.7
   response: 7E80562113502FC
 - expected_values:
-    AUDI_COOLANT_T: -183.6
+    S3_COOLANT_T: -183.6
   response: 7E805621135037F
 - expected_values:
-    AUDI_COOLANT_T: -174.9
+    S3_COOLANT_T: -174.9
   response: 7E80562113503D6

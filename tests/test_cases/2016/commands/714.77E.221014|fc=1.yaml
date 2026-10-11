@@ -1,0 +1,17 @@
+command_id: 714.77E.221014|fc=1
+test_cases:
+- expected_values:
+    S3_AAT: 6
+  response: '77E0462101470'
+- expected_values:
+    S3_AAT: 10
+  response: '77E0462101478'
+- expected_values:
+    S3_AAT: 13
+  response: 77E046210147E
+- expected_values:
+    S3_AAT: 14
+  response: '77E0462101480'
+- expected_values:
+    S3_AAT: 15
+  response: '77E0462101482'

@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    S3_MEAN_INJ_QUANTITY: 1.32
+  response: '7E8056211390084'
+- expected_values:
+    S3_MEAN_INJ_QUANTITY: 1.9
+  response: 7E80562113900BE
+- expected_values:
+    S3_MEAN_INJ_QUANTITY: 7.55
+  response: 7E80562113902F3
+- expected_values:
+    S3_MEAN_INJ_QUANTITY: 7.55
+  response: |-
+    7E80562113902F3
+    7E8056239A200C4
+    7E80562F40C2B9E
+    7E803410B25
+    7E803410EB1
+    7E8046210015E
+    7E80562F40C2BAA
+    7E80341067C
+    7E803410B25
+    7E80341112B
+    7E804412305D4
+    7E804413C1BFE

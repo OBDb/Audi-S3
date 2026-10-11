@@ -1,17 +1,17 @@
 command_id: 7E1.7E9.22380D
 test_cases:
 - expected_values:
-    AUDI_MQB_INPUT_SHAFT_2: 0
+    S3_MQB_INPUT_SHAFT_2: 0
   response: 7E90562380D0000
 - expected_values:
-    AUDI_MQB_INPUT_SHAFT_2: 3133
+    S3_MQB_INPUT_SHAFT_2: 3133
   response: 7E90562380D3D0C
 - expected_values:
-    AUDI_MQB_INPUT_SHAFT_2: 1677
+    S3_MQB_INPUT_SHAFT_2: 1677
   response: 7E90562380D8D06
 - expected_values:
-    AUDI_MQB_INPUT_SHAFT_2: 1969
+    S3_MQB_INPUT_SHAFT_2: 1969
   response: 7E90562380DB107
 - expected_values:
-    AUDI_MQB_INPUT_SHAFT_2: 2748
+    S3_MQB_INPUT_SHAFT_2: 2748
   response: 7E90562380DBC0A

@@ -1,0 +1,8 @@
+command_id: 746.7B0.222605|fc=1
+test_cases:
+- expected_values:
+    S3_REFRIGERANT_PRESSURE: 0
+  response: 7B00462260500
+- expected_values:
+    S3_REFRIGERANT_PRESSURE: 10.2
+  response: 7B00462260533

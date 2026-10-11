@@ -1,17 +1,17 @@
 command_id: 70F.779.222BE9|fc=1
 test_cases:
 - expected_values:
-    AUDI_PQ35_HAL_V: 0
+    S3_PQ35_HAL_V: 0
   response: 77905622BE90000
 - expected_values:
-    AUDI_PQ35_HAL_V: 1.8
+    S3_PQ35_HAL_V: 1.8
   response: 77905622BE91200
 - expected_values:
-    AUDI_PQ35_HAL_V: 1.9
+    S3_PQ35_HAL_V: 1.9
   response: 77905622BE91300
 - expected_values:
-    AUDI_PQ35_HAL_V: 2.5
+    S3_PQ35_HAL_V: 2.5
   response: 77905622BE91900
 - expected_values:
-    AUDI_PQ35_HAL_V: 2.7
+    S3_PQ35_HAL_V: 2.7
   response: 77905622BE91B00

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221001|fc=1
+test_cases:
+- expected_values:
+    S3_IAT_7E0: 23.25
+  response: 7E8046210015F
+- expected_values:
+    S3_IAT_7E0: 43.5
+  response: 7E8046210017A
