@@ -1,10 +1,10 @@
 command_id: 7E0.7E8.221473
 test_cases:
 - expected_values:
-    AUDI_INJ_7_RAIL_P_CAL_PT_2: 0
+    S3_INJ_7_RAIL_P_CAL_PT_2: 0
   response: '7E8056214730000'
 - expected_values:
-    AUDI_INJ_7_RAIL_P_CAL_PT_2: 0
+    S3_INJ_7_RAIL_P_CAL_PT_2: 0
   response: |-
     7E8056214730000
     7E8056239A200C4

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221187
+test_cases:
+- expected_values:
+    S3_ACCELERATION: 0.008
+  response: '7E8056211870008'
+- expected_values:
+    S3_ACCELERATION: 0.01
+  response: 7E805621187000A
+- expected_values:
+    S3_ACCELERATION: 0.011
+  response: 7E805621187000B

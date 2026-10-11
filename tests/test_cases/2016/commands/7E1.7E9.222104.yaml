@@ -1,0 +1,32 @@
+command_id: 7E1.7E9.222104
+test_cases:
+- expected_values:
+    S3_ATF_T: 14
+  response: 7E9056221040E00
+- expected_values:
+    S3_ATF_T: 36
+  response: '7E9056221042400'
+- expected_values:
+    S3_ATF_T: 38
+  response: '7E9056221042600'
+- expected_values:
+    S3_ATF_T: 40
+  response: '7E9056221042800'
+- expected_values:
+    S3_ATF_T: 47
+  response: 7E9056221042F00
+- expected_values:
+    S3_ATF_T: 49
+  response: '7E9056221043100'
+- expected_values:
+    S3_ATF_T: 51
+  response: '7E9056221043300'
+- expected_values:
+    S3_ATF_T: 61
+  response: 7E9056221043D00
+- expected_values:
+    S3_ATF_T: 68
+  response: '7E9056221044400'
+- expected_values:
+    S3_ATF_T: 75
+  response: 7E9056221044B00

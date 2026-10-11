@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22121E
+test_cases:
+- expected_values:
+    S3_SPEC_VALUE_RAIL_P: 292400
+  response: 7E80562121E0B6C
+- expected_values:
+    S3_SPEC_VALUE_RAIL_P: 297400
+  response: 7E80562121E0B9E

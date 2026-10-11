@@ -1,0 +1,8 @@
+command_id: 746.7B0.222611|fc=1
+test_cases:
+- expected_values:
+    S3_LEG_DEFLECTOR_T: 26.33333
+  response: 7B0046226114F
+- expected_values:
+    S3_LEG_DEFLECTOR_T: 61
+  response: 7B004622611B7

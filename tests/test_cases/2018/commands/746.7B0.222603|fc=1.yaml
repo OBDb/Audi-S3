@@ -1,0 +1,8 @@
+command_id: 746.7B0.222603|fc=1
+test_cases:
+- expected_values:
+    S3_AC_COMPRESSOR_SPEED: 0
+  response: 7B00462260300
+- expected_values:
+    S3_AC_COMPRESSOR_SPEED: 7500
+  response: 7B0046226034B

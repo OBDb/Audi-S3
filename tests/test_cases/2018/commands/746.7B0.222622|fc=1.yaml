@@ -1,0 +1,17 @@
+command_id: 746.7B0.222622|fc=1
+test_cases:
+- expected_values:
+    S3_FRONT_LEFT_T_FLAP_ACTUAL_VALUE: 66.5
+  response: 7B006622622040085
+- expected_values:
+    S3_FRONT_LEFT_T_FLAP_ACTUAL_VALUE: 100
+  response: 7B0066226226201FF
+- expected_values:
+    S3_FRONT_LEFT_T_FLAP_ACTUAL_VALUE: 0
+  response: 7B006622622630200
+- expected_values:
+    S3_FRONT_LEFT_T_FLAP_ACTUAL_VALUE: 1.5
+  response: 7B006622622A30303
+- expected_values:
+    S3_FRONT_LEFT_T_FLAP_ACTUAL_VALUE: 75.5
+  response: 7B006622622C80397

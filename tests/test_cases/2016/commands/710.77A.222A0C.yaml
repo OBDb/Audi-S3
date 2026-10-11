@@ -1,10 +1,8 @@
 command_id: 710.77A.222A0C
 test_cases:
 - expected_values:
-    AUDI_MQB_BAT_CHG_COND: 62
-    AUDI_SSB_SOC: 62
+    S3_SSB_SOC: 62
   response: 77A04622A0C3E
 - expected_values:
-    AUDI_MQB_BAT_CHG_COND: 94
-    AUDI_SSB_SOC: 94
+    S3_SSB_SOC: 94
   response: 77A04622A0C5E

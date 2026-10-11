@@ -1,23 +1,23 @@
 command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
-    AUDI_AAT_CABIN: 6
+    S3_OUTSIDE_T_SYSTEM: 6
   response: 7B00462260A70
 - expected_values:
-    AUDI_AAT_CABIN: 6.5
+    S3_OUTSIDE_T_SYSTEM: 6.5
   response: 7B00462260A71
 - expected_values:
-    AUDI_AAT_CABIN: 9.5
+    S3_OUTSIDE_T_SYSTEM: 9.5
   response: 7B00462260A77
 - expected_values:
-    AUDI_AAT_CABIN: 13
+    S3_OUTSIDE_T_SYSTEM: 13
   response: 7B00462260A7E
 - expected_values:
-    AUDI_AAT_CABIN: 14
+    S3_OUTSIDE_T_SYSTEM: 14
   response: 7B00462260A80
 - expected_values:
-    AUDI_AAT_CABIN: 15
+    S3_OUTSIDE_T_SYSTEM: 15
   response: 7B00462260A82
 - expected_values:
-    AUDI_AAT_CABIN: 16.5
+    S3_OUTSIDE_T_SYSTEM: 16.5
   response: 7B00462260A85

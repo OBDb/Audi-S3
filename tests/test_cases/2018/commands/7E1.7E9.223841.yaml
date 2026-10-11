@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.223841
+test_cases:
+- expected_values:
+    S3_ODO_V1: 13440
+  response: 7E90762384100020D00
+- expected_values:
+    S3_ODO_V1: 891596.8
+  response: 7E90762384100880C00
+- expected_values:
+    S3_ODO_V1: 5026918.4
+  response: 7E90762384102FF0C00
+- expected_values:
+    S3_ODO_V1: 5033497.6
+  response: 7E90762384103000D00
+- expected_values:
+    S3_ODO_V1: 427832448
+  response: 7E907623841FF020D00

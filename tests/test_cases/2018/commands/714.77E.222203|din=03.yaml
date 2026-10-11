@@ -1,0 +1,8 @@
+command_id: 714.77E.222203|din=03
+test_cases:
+- expected_values:
+    S3_ODO_DASH: 82471
+  response: '77E06622203014227'
+- expected_values:
+    S3_ODO_DASH: 82472
+  response: '77E06622203014228'

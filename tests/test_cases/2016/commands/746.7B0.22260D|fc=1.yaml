@@ -1,0 +1,8 @@
+command_id: 746.7B0.22260D|fc=1
+test_cases:
+- expected_values:
+    S3_FRONT_RIGHT_DEFLECTOR_T: 39.33333
+  response: 7B00462260D76
+- expected_values:
+    S3_FRONT_RIGHT_DEFLECTOR_T: 61
+  response: 7B00462260DB7
